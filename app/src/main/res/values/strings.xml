@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="order">Order</string>
+    <string name="name">your name</string>
+    <string name="toppings">toppings</string>
+    <string name="cream">Cream</string>
+    <string name="choc">Choc</string>
+    <string name="inc">+</string>
+    <string name="decrease">-</string>
+</resources>
